@@ -156,7 +156,7 @@ email.textContent = siteContent['contact']['email'];
 
 const footer = document.querySelector('footer p');
 
-footer.textContent= siteContent['footer']['copyright'];
+footer.textContent= siteContent['footer']['copyright 2008'];
 
 // update element
 
